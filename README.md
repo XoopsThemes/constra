@@ -1,11 +1,24 @@
-# Constra
+![alt XOOPS CMS](https://xoops.org/images/logoXoops4GithubRepository.png)
+## Constra
+
 Constra Construction Theme For XOOPS CMS 2.5.10+ by Heyula
 =====
 
 ![Theme Preview](/theme_preview.png)
 
-Constra is a responsive HTML site template for a Construction Business. It has lot of features and is can be modified .
-This template built with Bootstrap 3.2 and coming with boxed and wide layout, 10 pre-defined template colors, 10 pattern backgrounds, WOW animation effects, and many more. 
+Constra is a responsive HTML site template for a Construction Business. It has lot of features and is can be modified.
+
+Adapted Modules:
+- WGGallery
+- Xmcontent
+- XmNews
+- XOOPS FAQ
+
+**Download:**
+https://erenyumak.com/modules/themes/item.php?itemid=22
+
+**Demo:**
+https://erenyumak.com/ato/
 
 Ported to XOOPS [CMS 2.5.10+](https://xoops.org/modules/publisher/item.php?itemid=6005)
 
@@ -25,4 +38,4 @@ XOOPS CMS is a free, open source, lightweight & extensible Content Management Sy
 
 Visit us at [XOPS CMS website](https://xoops.org/)
 
-The upcoming "next generation" version of XOOPS CMS is being crafted on GitHub at: https://github.com/XOOPS
+Current and upcoming "next generation" versions of XOOPS CMS are crafted on GitHub at: https://github.com/XOOPS
